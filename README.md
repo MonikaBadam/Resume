@@ -22,7 +22,7 @@ Choose the format that suits your needs best, whether you want to quickly view t
 ## Usage
 To access the resume, follow these steps:
 
-1. Navigate to the [Sreeja's Resume repository](https://github.com/MonikaBadam/Resume) on GitHub.
+1. Navigate to the [Monika's Resume repository](https://github.com/MonikaBadam/Resume) on GitHub.
 
 2. Choose either the PDF or Markdown format, depending on your requirements.
 
