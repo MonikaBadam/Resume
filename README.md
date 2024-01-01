@@ -1,9 +1,9 @@
 # Resume
 This repository contains the resume of Monika, a talented individual with skills and experience in the field of ECE. This is a simple and clean resume created only using HTML. The resume is available in both PDF and Markdown formats, making it easy to view and customize as needed.
 # Table of Contents
-## Introduction
-## Resume Formats
-## Usage
+ Introduction
+ Resume Formats
+ Usage
 
 # Introduction
 Monika's resume showcases their qualifications, work experience, education, and skills. It provides a comprehensive overview of their professional background, making it a valuable resource for potential employers, clients, or collaborators.
